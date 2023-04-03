@@ -2,7 +2,7 @@
 
 ## Introdução
 
-
+<img align="right" src="https://github.com/Kaua-Reno/portifolio-TG-fatec/blob/main/img/perfil.png" alt="Foto pessoal" width="150"/>
 
 Tenho 20 anos e atualmente sou estudante do quinto semestre de Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos
 
