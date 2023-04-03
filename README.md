@@ -6,7 +6,7 @@
 
 Tenho 20 anos e atualmente sou estudante do quinto semestre de Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos
 
-Me formei no Ensino médio em 2020, possuo técnico em Administração pelo Instituto Federal de São Paulo, Campus Jacareí, meu primeiro contato com programação foi com python atraves da Fatec, quando eu estava no primeiro semestre. Após isso me interresei muito pela área da programação e os caminhos que ela pode proporcionar
+Me formei no Ensino médio em 2020, possuo técnico em Administração pelo Instituto Federal de São Paulo, Campus Jacareí. Meu primeiro contato com programação foi com python atraves da Fatec, quando eu estava no primeiro semestre. Após isso me interresei muito pela área da programação e os caminhos que ela pode proporcionar
 
 Atualmente, sou bolsista de iniciação científica no INPE e estou envolvido com desenvolvimento de rotinas em Python para gerenciamento da base de dados radiometricos de monitoramento de sistemas aquáticos por sensoriamento remoto, atraves do manipulamento de dados obtidos atráves de imagens de satélite.
 
@@ -19,7 +19,7 @@ Segue abaixo uma tabela dos projetos e seus links que levará a um README com ma
 
  |   Semestre  |    Descrição    |
  | :---         | :---      |
- | [1° Semester]( )    | Website para uma ONG de cuidados infantis |
+ | [1° Semestre](https://github.com/Kaua-Reno/portifolio-TG-fatec/tree/main/primeiroSemestre)    | Website para uma ONG de cuidados infantis |
  
  </div>
  
