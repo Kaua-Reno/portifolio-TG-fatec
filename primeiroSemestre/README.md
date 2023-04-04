@@ -15,7 +15,7 @@ Como pode ser visto no GIF abaixo, para solucionar o problema, o site foi criado
 * **Cadastros:** páginas para cadastro de participantes e voluntários específico e de apoio;
 * **Alunos:** página com brincadeiras e atividades para as crianças atendidas.
 
-Além dessas páginas, implementamos a funcionalidade de um chatbot para facilitar com dificuldades que o usuário pode enfrentar no site.
+Além dessas páginas, implementamos a funcionalidade de um chatbot para facilitar com dificuldades que o usuário pode enfrentar no site, assim ele poderia mandar no chat a sua dúvida.
 
 ![Gif da execução do projeto](../img/1-semestre.gif)
 
