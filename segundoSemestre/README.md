@@ -1,4 +1,4 @@
- Em 2021-1 (1º Semestre)
+ Em 2021-2 (2º Semestre)
 
 ## Sobre o Projeto
 
