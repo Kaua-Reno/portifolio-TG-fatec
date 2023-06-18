@@ -50,7 +50,7 @@ Desse modo, de acordo com o que foi solicitado, foi criado um website para soluc
 
 ## Contribuições Pessoais
 
-Nesse projeto novamente trabalhei focalmente na parte do back-end, onde nesse semestre trabalhamos com a liguagem de programação JAVA com o framework Spring, tive grande participação na parte do nivelamento de acesso dos usuários, também participei dos CRUD's, juntamente com o banco de dados, onde também tive participação, também fiz a integração de algumas funções entre o back-end e o front-end e por último ajudei na parte dos Dashbords e da mecânica de notificações.
+Nesse projeto novamente trabalhei focalmente na parte do back-end, onde nesse semestre trabalhamos com a liguagem de programação JAVA com o framework Spring. Tive grande participação na parte do nivelamento de acesso dos usuários. Também participei dos CRUD's, juntamente com o banco de dados, onde também tive participação. Também fiz a integração de algumas funções entre o back-end e o front-end. Por último ajudei na parte dos Dashbords e da mecânica de notificações.
 
 ## Hard Skills
 

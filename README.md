@@ -22,8 +22,8 @@ Segue abaixo uma tabela dos projetos e seus links que levará a um README com ma
  | [1° Semestre](./primeiroSemestre/README.md)    | Website para uma ONG de cuidados infantis |
  | [2º Semestre](./segundoSemestre/README.md) | CRUD para uma empresa de Software para gerenciamento de quadro de presenças |
  | [3º Semestre](./terceiroSemestre/README.md) | Sistema para armazenar, consultar e processar contas de água, energia e gás |
- | [4º Semestre](./quartoSemestre/README.md) | |
- | [5º Semestre](./quintoSemestre/README.md) | |
+ | [4º Semestre](./quartoSemestre/README.md) | Plataforma web para controle de jornada de trabalho de hora extras e sobreavisos |
+ | [5º Semestre](./quintoSemestre/README.md) | Aplicação híbrida de Serviço de Atendimento ao Cliente (SAC) |
  
  </div>
  
