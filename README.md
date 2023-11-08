@@ -24,16 +24,17 @@ Segue abaixo uma tabela dos projetos e seus links que levará a um README com ma
  | [3º Semestre](./terceiroSemestre/README.md) | Sistema para armazenar, consultar e processar contas de água, energia e gás |
  | [4º Semestre](./quartoSemestre/README.md) | Plataforma web para controle de jornada de trabalho de hora extras e sobreavisos |
  | [5º Semestre](./quintoSemestre/README.md) | Aplicação híbrida de Serviço de Atendimento ao Cliente (SAC) |
+ | [6º Semestre](./sextoSemestre/README.md) |  |
  
  </div>
  
  ## Conhecimento Técnico
  
- * ### **Back-End:** Python(médio), PHP(básico), Java(básico), JavaScript(médio) e TypeScript(médio).
+ * ### **Back-End:** Python(médio), PHP(básico), Java(médio), JavaScript(médio) e TypeScript(médio).
  * #### Frameworks: Spring e Node.js.
  --------------------------------------------------------------------------------------------------
  * ### **Front-End:** HTML(médio), CSS(médio), JavaScript e TypeScript(médio).
- * #### Frameworks: Bootstrap, React e React Native.
+ * #### Frameworks: Bootstrap, React, React Native e Vue.
  --------------------------------------------------------------------------------------------------
  * ### **Banco de Dados:** MySQL(médio), PostgresSQL(médio), MariaDB(médio), Oracle(baixo) e MongoDB(médio)
  
