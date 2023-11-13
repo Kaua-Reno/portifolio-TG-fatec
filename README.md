@@ -24,7 +24,7 @@ Segue abaixo uma tabela dos projetos e seus links que levará a um README com ma
  | [3º Semestre](./terceiroSemestre/README.md) | Sistema para armazenar, consultar e processar contas de água, energia e gás |
  | [4º Semestre](./quartoSemestre/README.md) | Plataforma web para controle de jornada de trabalho de hora extras e sobreavisos |
  | [5º Semestre](./quintoSemestre/README.md) | Aplicação híbrida de Serviço de Atendimento ao Cliente (SAC) |
- | [6º Semestre](./sextoSemestre/README.md) |  |
+ | [6º Semestre](./sextoSemestre/README.md) | Aplicação para recrutamento de candidatos para vagas de empresas |
  
  </div>
  
